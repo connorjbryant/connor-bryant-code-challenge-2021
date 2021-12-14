@@ -1,4 +1,4 @@
-# connor-bryant-code-challenge-2021
+# code-challenge-2021
 
 1. Make `Hello World` appear on the webpage. There is some existing code but it needs work.
 2. Play the included bling sound when the user clicks on `Hello World`
